@@ -1,4 +1,4 @@
-This code provides support for complex numbers in Lua using the functions
+This code provides support for complex numbers in Lua 5.1 using the functions
 available in C99.
 
 To try the library, just edit Makefile to reflect your installation of Lua and

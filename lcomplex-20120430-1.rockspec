@@ -1,18 +1,18 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lcomplex"
-version="20100404-1"
+version="20120430-1"
 
 -- LuaDist source
 source = {
-  tag = "20100404-1",
+  tag = "20120430-1",
   url = "git://github.com/LuaDist-testing/lcomplex.git"
 }
 -- Original source
 -- source = {
 --   url = "http://www.tecgraf.puc-rio.br/~lhf/ftp/lua/5.1/lcomplex.tar.gz", 
 --   dir = "complex", 
---   md5="ddb496b1f3f1ab64e49d68515f49dd72"
+--   md5="c13ebda8c14651eeffeb2b74c9e9819f"
 -- }
 
 description = {

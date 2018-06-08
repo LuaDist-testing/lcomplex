@@ -1,8 +1,8 @@
 /*
 * lcomplex.c
-* C99 complex nummbers for Lua
+* C99 complex numbers for Lua 5.1
 * Luiz Henrique de Figueiredo <lhf@tecgraf.puc-rio.br>
-* 02 Nov 2009 23:15:43
+* 30 Apr 2012 13:55:58
 * This code is hereby placed in the public domain.
 */
 
@@ -14,7 +14,7 @@
 
 #define MYNAME		"complex"
 #define MYTYPE		MYNAME " number"
-#define MYVERSION	MYTYPE " library for " LUA_VERSION " / Nov 2009"
+#define MYVERSION	MYTYPE " library for " LUA_VERSION " / Apr 2012"
 
 #define Z(i)		Pget(L,i)
 #define O(i)		luaL_optnumber(L,i,0)
